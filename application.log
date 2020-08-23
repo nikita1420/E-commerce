@@ -1,0 +1,4 @@
+2020-08-22 14:46:25,933  INFO [main] BaseClass:57 - browser start
+2020-08-22 14:46:34,100  INFO [main] BaseClass:30 - login with--invalid--credentials
+2020-08-22 14:46:44,791  INFO [main] BaseClass:59 - User are not able to login with invalid credentials
+2020-08-22 14:46:50,984  INFO [main] BaseClass:57 - browser start
